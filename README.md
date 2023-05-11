@@ -5,9 +5,9 @@ max value to generate.
 
 # Getting Started
 First off download the repository to your local testing machine
-1) Run the IIS Express ![image](https://github.com/ColbyB29/RandomNumberGeneratorAPI/assets/125478016/5366bfcb-37d3-4451-8cd6-d909d3be80e6)
 
-2) The swagger page should open https://localhost:44364/swagger/index.html 
+1) Run the WebApplication1.exe
+2) Open the swagger page https://localhost:5000/swagger/index.html 
 3) Navigate to the GET RandomNumber/GenerateRandom request
 4) Click Try It Out
 5) Enter parameters. 
